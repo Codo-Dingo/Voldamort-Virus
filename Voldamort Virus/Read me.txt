@@ -1,0 +1,6 @@
+--> This virus runs as a exe called "voldamort.exe" and this will encrpyt all your files (not folders) in the directory you run this on . so be careful
+--> I have also given a fix to this called "voldamort_fix.exe" just run this file in the directory in which you have run the "voldamort.exe" file and you are good
+    to go.
+--> REMEMBER DONOT CHANGE THE NAME OF THE FILES ["voldamort.exe","voldamort_fix.exe"] 
+--> The password is "Teri Chain Chain"
+--> Use only this to troll people and please DONOT put this on a c drive 
